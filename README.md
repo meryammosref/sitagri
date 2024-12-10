@@ -36,3 +36,9 @@ Cette solution permet :
 - Une gestion efficace des données pour des analyses en temps réel.  
 - Des visualisations dynamiques des tendances du marché.  
 - Des recommandations automatisées pour améliorer les processus décisionnels dans le secteur agricole.  
+
+
+
+![1733854013330 (1)](https://github.com/user-attachments/assets/934b7a26-48ff-48b5-976a-52093b710395)
+
+
